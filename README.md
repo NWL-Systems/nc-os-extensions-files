@@ -1,11 +1,11 @@
 # Essa Extensões para NuclearCloud OS foi feito por:
-         # NWL Systems
+  NWL Systems
 
 ## E qualquer falsa acusação e Difamação sobre esta Extensão ter sido criado por Você, É Extremamente Proibido
 e para Instalar o compilador para criar um APP, Docs e entre outros
 ... é so vim aqui:
 
-github.com/NWL-Systems/nc-language
+    github.com/NWL-Systems/nc-language
 
 Extensões:
 
