@@ -26,14 +26,14 @@ Extensões:
    so muda a forma como quer compilar
 
 # .ncapp - Aplicativo normal
-    ./nc meuapp.nc meuapp.ncapp
+    nclang meuapp.nc meuapp.ncapp
 
 # .ncdevapp - App de desenvolvedor
-    ./nc userexemple.nc terminal.ncdevapp
+    nclang userexemple.nc terminal.ncdevapp
 
 # .ncprivapp - App especial
-    ./nc userexemple.nc settings.ncprivapp
+    nclang userexemple.nc settings.ncprivapp
 
 E para compilar só o arquivo .nc pode ser dessa forma
 
-    ./nc filemanager.nc
+    nclang filemanager.nc
