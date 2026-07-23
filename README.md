@@ -7,8 +7,14 @@ e para Instalar o compilador para criar um APP, Docs e entre outros
 
     github.com/NWL-Systems/nc-language
 
-Extensões:
+### Instalação
+```bash
+git clone https://github.com/NWL-Systems/nc-os-extensions-files.git
+cd nc-os-extensions-files
+```
 
+Extensões:
+```bash
     .ncfile: para arquivos de qualquer tipo
 
     .ncdocs: para jsons e documentos e textos
@@ -20,7 +26,7 @@ Extensões:
     .ncdevapp: para apps pra quem é Desenvolvedor/Programador
 
     .ncimg: para imagens
-
+```
 
 # Exemplos de Compilação para App e o resto:
    so muda a forma como quer compilar
@@ -35,5 +41,6 @@ Extensões:
     nclang userexemple.nc settings.ncprivapp
 
 E para compilar só o arquivo .nc pode ser dessa forma
-
+```bash
     nclang filemanager.nc
+```
