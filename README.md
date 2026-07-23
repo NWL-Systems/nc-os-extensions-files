@@ -50,3 +50,9 @@ Caso queira Colocar sua Lib na NC Language acesse
 ```bash
  https://github.com/Playclaubrt/NC-Libarys
 ```
+
+Caso Queira colocar um Pacote pra o Terminal do NC Terminal, Acesse
+
+```bash
+https://github.com/Playclaubrt/NC-Terminal
+```
