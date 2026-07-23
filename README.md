@@ -5,7 +5,7 @@
 e para Instalar o compilador para criar um APP, Docs e entre outros
 ... é so vim aqui:
 
-    [NC-Lang](https://github.com/NWL-Systems/nc-language)
+    https://github.com/NWL-Systems/nc-language
 
 ---
 
