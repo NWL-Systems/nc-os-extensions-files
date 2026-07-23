@@ -44,3 +44,9 @@ E para compilar só o arquivo .nc pode ser dessa forma
 ```bash
     nclang filemanager.nc
 ```
+
+Caso queira Colocar sua Lib na NC Language acesse 
+
+```bash
+ https://github.com/Playclaubrt/NC-Libarys
+```
