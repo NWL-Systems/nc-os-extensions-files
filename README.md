@@ -5,7 +5,7 @@
 e para Instalar o compilador para criar um APP, Docs e entre outros
 ... é so vim aqui:
 
-    github.com/NWL-Systems/nc-language
+    [NC-Lang] (github.com/NWL-Systems/nc-language)
 
 ### Instalação
 ```bash
