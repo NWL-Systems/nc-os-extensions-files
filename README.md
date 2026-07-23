@@ -7,6 +7,8 @@ e para Instalar o compilador para criar um APP, Docs e entre outros
 
     [NC-Lang](https://github.com/NWL-Systems/nc-language)
 
+---
+
 ### Instalação
 ```bash
 git clone https://github.com/NWL-Systems/nc-os-extensions-files.git
